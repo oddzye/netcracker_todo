@@ -2,7 +2,7 @@
     var Task = {
         init: function () {
             this.rootElement = document.getElementById("root");
-            console.log(this.rootElement);
+            
         }
     };
 
