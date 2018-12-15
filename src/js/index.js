@@ -2,7 +2,7 @@
     var Task = {
         init: function () {
             this.rootElement = document.getElementById("root");
-            console.log("test ssh key")
+            console.log("test ssh key...")
         }
     };
 
